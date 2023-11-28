@@ -16,7 +16,7 @@
     "postcss-import": "14.0.1",
     "postcss-loader": "5.2.0",
     "precss": "4.0.0",
-    "tailwindcss": "2.1.2",
+    "tailwindcss": "2.2.0",
     "webpack": "5.36.1",
     "webpack-cli": "4.6.0",
     "webpack-merge": "5.7.3"
